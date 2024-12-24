@@ -1,5 +1,7 @@
-git init
+npm init -y
+npm install cypress cucumber-preprocessor
 git add .
-git commit -m "Initial commit: Magento sign-up and login automation"
-git remote add origin https://github.com/<your-username>/Magento-Automation.git
+git commit -m "Initial commit: Magento sign-up and login automation with Cypress"
+git remote add origin https://github.com/SamyugthaM/Magento-Automation.git
+git branch -M main
 git push -u origin main
