@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit: Magento sign-up and login automation"
+git remote add origin https://github.com/<your-username>/Magento-Automation.git
+git push -u origin main
